@@ -44,11 +44,6 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 - Performed EDA, feature engineering, and model comparison  
 - Tech: Python, Pandas, Scikit-learn  
 
-### 🔹 Fraud Detection System
-- Developed ML models to identify fraudulent transactions  
-- Performed EDA, feature engineering, and model comparison  
-- Tech: Python, Pandas, Scikit-learn  
-
 ### 🔹 FinScope – Financial Analytics Platform
 - Designed an analytics platform to track income, expenses, and savings  
 - Built interactive dashboards and automated reports  
