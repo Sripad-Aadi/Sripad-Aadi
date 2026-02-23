@@ -5,15 +5,15 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
-## 🔍 About Me
-- 🎓 AIML Undergraduate  
-- 💻 Strong in Python, Machine Learning, and Data Analysis  
-- 📊 Experienced with real-world datasets and end-to-end ML pipelines  
-- 🚀 Currently improving skills in ML model building & deployment  
+##  About Me
+-  AIML Undergraduate  
+-  Strong in Python, Machine Learning, and Data Analysis  
+-  Experienced with real-world datasets and end-to-end ML pipelines  
+-  Currently improving skills in ML model building & deployment  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**  
 - Python, Java, C, C++, JavaScript  
@@ -37,7 +37,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 Fraud Detection System
 - Developed ML models to identify fraudulent transactions  
@@ -60,7 +60,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sripad-Aadi&show_icons=true&theme=tokyonight)
 
@@ -68,11 +68,11 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - LinkedIn: https://linkedin.com/in/sripad-aadi
 - GitHub: https://github.com/Sripad-Aadi  
 
 ---
 
-⭐ Feel free to explore my repositories and connect for collaboration.
+ Feel free to explore my repositories and connect for collaboration.
