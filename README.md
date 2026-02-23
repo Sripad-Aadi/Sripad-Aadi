@@ -1,4 +1,4 @@
-# Hi, I'm Sripad Adhi 👋  
+# Hi, I'm Sripad Aadi 👋  
 ### AI & Machine Learning | Data Science | Python Developer  
 
 I am a B.Tech student specializing in Artificial Intelligence and Machine Learning with strong interests in building real-world machine learning systems, data-driven applications, and analytics solutions. I enjoy transforming raw data into meaningful insights and scalable ML pipelines.
@@ -39,15 +39,20 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ## 📌 Featured Projects
 
-### 🔹 Drug Recommendation System (Sentiment Analysis)
-- Built an NLP-based system to recommend drugs based on patient reviews  
-- Used TF-IDF, Logistic Regression, and ranking logic  
-- Tech: Python, Pandas, Scikit-learn, NLTK  
+### 🔹 Fraud Detection System
+- Developed ML models to identify fraudulent transactions  
+- Performed EDA, feature engineering, and model comparison  
+- Tech: Python, Pandas, Scikit-learn  
 
 ### 🔹 Fraud Detection System
 - Developed ML models to identify fraudulent transactions  
 - Performed EDA, feature engineering, and model comparison  
 - Tech: Python, Pandas, Scikit-learn  
+
+### 🔹 FinScope – Financial Analytics Platform
+- Designed an analytics platform to track income, expenses, and savings  
+- Built interactive dashboards and automated reports  
+- Tech: Python, Pandas, SQL, Power BI
 
 ### 🔹 My Playing XI (Cricket Analytics Dashboard)
 - Power BI dashboard to select best playing XI using performance metrics  
@@ -65,7 +70,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link  
+- LinkedIn: https://linkedin.com/in/sripad-aadi
 - GitHub: https://github.com/Sripad-Aadi  
 
 ---
