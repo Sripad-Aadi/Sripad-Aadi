@@ -60,14 +60,6 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sripad-Aadi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sripad-Aadi&layout=compact&theme=tokyonight)
-
----
-
 ##  Connect With Me
 
 - LinkedIn: https://linkedin.com/in/sripad-aadi
