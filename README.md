@@ -1,22 +1,25 @@
 # Hi, I'm Sripad Aadi 👋  
 ### AI & Machine Learning | Data Science | Python Developer  
 
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning with strong interests in building real-world machine learning systems, data-driven applications, and analytics solutions. I enjoy transforming raw data into meaningful insights and scalable ML pipelines.
+Focused on developing scalable, backend-driven solutions with strong fundamentals in backend principles, DBMS, system design and OOPS, leveraging Java, JavaScript, Python, Node.js, and SQL/PostgreSQL.
 
 ---
 
 ##  About Me
 -  AIML Undergraduate  
--  Strong in Python, Machine Learning, and Data Analysis  
--  Experienced with real-world datasets and end-to-end ML pipelines  
--  Currently improving skills in ML model building & deployment  
-
+-  Strong in Backend, Machine Learning, and Data Analysis  
+-  Experienced with real-world systems and end-to-end ML pipelines  
+-  Currently improving skills in cloud and CICD pipelines
 ---
 
 ##  Tech Stack
 
 **Languages**  
-- Python, Java, C, C++, JavaScript  
+- Python, Java, C, JavaScript  
+
+**Web & Backend**  
+- Node.js, Express.js, Flask, FastAPI, REST APIs  
+- React, Tailwind CSS
 
 **Machine Learning & Data Science**  
 - NumPy, Pandas, Scikit-learn  
@@ -26,10 +29,6 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 **Visualization & BI**  
 - Power BI, Matplotlib, Seaborn  
-
-**Web & Backend**  
-- Node.js, Express.js, Flask, FastAPI, REST APIs  
-- React, Tailwind CSS  
 
 **Databases & Tools**  
 - MySQL, PostgresSQL, MongoDB
