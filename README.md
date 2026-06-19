@@ -1,5 +1,5 @@
 # Hi, I'm Sripad Aadi 👋  
-### AI & Machine Learning | Data Science | Python Developer  
+### Software Developer
 
 Focused on developing scalable, backend-driven solutions with strong fundamentals in backend principles, DBMS, system design and OOPS, leveraging Java, JavaScript, Python, Node.js, and SQL/PostgreSQL.
 
