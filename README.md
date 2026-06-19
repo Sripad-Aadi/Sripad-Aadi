@@ -28,26 +28,27 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 - Power BI, Matplotlib, Seaborn  
 
 **Web & Backend**  
-- Flask, FastAPI, REST APIs  
+- Node.js, Express.js, Flask, FastAPI, REST APIs  
 - React, Tailwind CSS  
 
 **Databases & Tools**  
-- MySQL, SQLAlchemy  
+- MySQL, PostgresSQL, MongoDB
 - Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
 ##  Featured Projects
 
+### 🔹 DineFlow - A Multi-tenent Restaurant SaaS Platform
+- Developed a multi-tenant restaurant SaaS platform with role-based portals supporting menu management, orders, tables, subscriptions, analytics, QR-code ordering and impersonation feature.
+- Engineered backend infrastructure with database connection pooling, graceful shutdown handling, Redis caching, CDN integration for image storage, and global error handling with audit logging.
+- Implemented real-time order processing using Socket.io and Redis pub/sub, secure REST APIs with JWT authentication (access + refresh rotation), RBAC, tenant isolation, and Zod validation.
+- Designed Mongoose-based data models with optimized indexing, Redis rate limiting, bcrypt+salt password hashing and idempotency keys to prevent duplicate transactions.
+
 ### 🔹 Fraud Detection System
 - Developed ML models to identify fraudulent transactions  
 - Performed EDA, feature engineering, and model comparison  
 - Tech: Python, Pandas, Scikit-learn  
-
-### 🔹 FinScope – Financial Analytics Platform
-- Designed an analytics platform to track income, expenses, and savings  
-- Built interactive dashboards and automated reports  
-- Tech: Python, Pandas, SQL, Power BI
 
 ### 🔹 My Playing XI (Cricket Analytics Dashboard)
 - Power BI dashboard to select best playing XI using performance metrics  
